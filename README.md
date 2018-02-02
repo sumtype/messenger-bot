@@ -1,6 +1,6 @@
 # Messenger Bot
 
-[![Known Vulnerabilities](https://snyk.io/test/github/dev4958/messenger-bot/badge.svg)](https://snyk.io/test/github/dev4958/messenger-bot)
+[![Known Vulnerabilities](https://snyk.io/test/github/sumtype/messenger-bot/badge.svg)](https://snyk.io/test/github/sumtype/messenger-bot)
 
 A simple Node.js messenger bot for deployment on Heroku.  The "app" directory contains the "index.html" page served at the Heroku deployment URL.  The server folder contains the server files used to manage messages coming from and going to users.  The messenger bot uses Redis for managing ephemeral user data during chats.  Commands for specified responses can be found below, the default response contains the message sent.  The bot can also respond to postback and quick reply payloads.
 
